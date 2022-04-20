@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nitin Vij
-- 👀 I’m interested in DevOps and cloud native technologies
-- 🌱 I’m currently learning kubernetes and Go
+- 👀 I work in DevOps and Cloud native technologies
+- 🌱 I’m currently working on Kubernetes and also learning Golang
 - 📫 How to reach me: send me a mail on : nitin992vij@gmail.com
 
 <!---
